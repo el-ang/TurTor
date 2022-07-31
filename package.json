@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Roy Morang",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roy-exe/TurTor.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/roy-exe/TurTor/issues"
+  },
+  "homepage": "https://github.com/roy-exe/TurTor#readme",
+  "description": ""
+}
